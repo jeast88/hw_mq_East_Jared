@@ -14,3 +14,10 @@ body {
         background-color: orange;
     }
 }
+
+@media (min-width: 1280px) {
+
+    body {
+        background-color: pink;
+    }
+}
