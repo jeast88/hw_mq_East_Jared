@@ -8,3 +8,9 @@ body {
         background-color: blue;
     }
 }
+@media (min-width: 999px) {
+
+    body {
+        background-color: orange;
+    }
+}
